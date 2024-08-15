@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|c:\\users\\musthaffashaik\\apigateway\\webapplication3\\webapplication3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0204E3CC-6132-4BF2-ABFA-5AE4399EBF26}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:47:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T10:47:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T07:33:17.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:31:05.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebApplication3\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:29:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:26:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\ApiGateway\\WebApplication3\\WebApplication3\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:24:34.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
