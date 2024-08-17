@@ -1,0 +1,3 @@
+[submodule "JWTinReact/JWTinReact/reactjws"]
+	path = JWTinReact/JWTinReact/reactjws
+	url = https://github.com/musthaffashaikspace/TrainingDaily
